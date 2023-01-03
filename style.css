@@ -1,5 +1,15 @@
+*{
+    margin: 50px;
+    padding: 20px 35px;
+}
+
+body{
+    background-color: aliceblue;
+}
+
 h1{
     color: red;
+    background-color: black;
 }
 p{
     color: white;
